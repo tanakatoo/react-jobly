@@ -1,0 +1,11 @@
+.Search{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.Search-Form{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+

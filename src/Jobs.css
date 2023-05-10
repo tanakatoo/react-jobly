@@ -1,0 +1,19 @@
+.Jobs-cards{
+    margin-left:20%;
+    margin-right:20%;
+
+}
+
+@media screen and (max-width: 900px){
+    .Jobs-cards{
+        margin-left:10%;
+        margin-right:10%;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .Jobs-cards{
+        margin-left:2%;
+        margin-right:2%;
+    }
+}

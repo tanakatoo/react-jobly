@@ -1,0 +1,19 @@
+.NavBar-Link
+{
+    text-decoration: none;
+    color: white;
+    margin-left:20px;
+}
+.NavBar-Link:hover{
+    color: lightgrey;
+    text-decoration: none;
+}
+
+.NavBar-clickable{
+    color: white !important;
+}
+
+
+.NavBar .active{
+ color: yellow;
+}

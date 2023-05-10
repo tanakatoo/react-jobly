@@ -1,0 +1,9 @@
+.CompanyJobs{
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+}
+
+.CompanyJobs-space{
+    margin-bottom:40px;
+}

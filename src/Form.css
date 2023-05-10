@@ -1,0 +1,21 @@
+.Form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 60%;
+}
+
+.Form-width{
+    min-width: 50%;
+}
+
+.Form-center{
+    text-align: center;
+}
+
+@media screen and (max-width: 500px ){
+    .Form-width{
+        min-width: 90%;
+    }
+}
